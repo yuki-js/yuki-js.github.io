@@ -1,0 +1,42 @@
+{
+  "name": "青木 勇樹",
+  "education": [
+    {
+      "school": "筑波大学",
+      "faculty": "情報学群",
+      "department": "情報科学類"
+    }
+  ],
+  "suki": [
+    "女装",
+    "コスメ",
+    "blockchain",
+    "Emacs",
+    "JavaScript",
+    "C言語",
+    "Vue.js"
+  ],
+  "career": [
+    {
+      "company": "Fressets, inc.",
+      "role": "R&D",
+      "period": [
+        "2019/7",
+        "2019/10"
+      ]
+    },
+    {
+      "company": "WIP.",
+      "role": "WIP...",
+      "period": [
+        "wip",
+        "wip"
+      ]
+    }
+  ],
+  "activities": [
+    "東京大学ブロックチェーン寄付講座3期",
+    "セキュリティキャンプ全国大会2019",
+    "WIP..."
+  ]
+}
